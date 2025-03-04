@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function() {
   // Get the education section and video
   const educationSection = document.getElementById('education');
